@@ -1,0 +1,13 @@
+.item {
+  font-family: Roboto, sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 1.2;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  padding-bottom: 15px;
+}
+.statistics {
+  margin-top: 20px;
+}
